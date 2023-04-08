@@ -1,0 +1,7 @@
+Si se desea ejecutar la interfaz con los ejercicios debe seguir los siguientes pasos:
+
+1-Clonar el repositorio
+
+2-Definir el directorio en la carpeta code: "cd code"
+
+3-ejecutar el archivo llamado "Interfaz" con el comando definido para ejecutar python, en mi caso seria "python Interfaz.py"
